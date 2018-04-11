@@ -19,10 +19,10 @@ Configurar seu nome, email e editor de commits
 
 # Para o colaborador 
 
-- Fazer fork do repositório
-- Criar uma Branch para as alterações
-- Atualizar o seu fork com o remote original
-- Realizar as alterações sugeridas pelo dono do repositório
+- Fazer fork do repositório (Feito)
+- Criar uma Branch para as alterações (Feito)
+- Atualizar o seu fork com o remote original (Feito)
+- Realizar as alterações sugeridas pelo dono do repositório (Feito sem sugestões)
 - Resolver os problemas de merge
 
 
